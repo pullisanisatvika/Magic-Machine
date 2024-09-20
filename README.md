@@ -4,6 +4,14 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 MagicMachine is a Java-based application designed to transform strings in a playful and unpredictable manner. It utilizes a randomly generated "magic machine," essentially a 2D array of operations, to manipulate input strings.
 
+###Technologies Used:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java: The core programming language for developing MagicMachine.
+Data Structures: Arrays are used to represent the magic machine and store intermediate results.
+String Manipulation: Java's built-in string manipulation functions are employed for various operations.
+Random Number Generation: The java.util.Random class is used to generate random numbers for the magic machine.
+Input/Output: The java.util.Scanner class is used to read user input, and System.out.println is used to display output.
+
 ###Key Features
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Randomized Transformations: Each run of MagicMachine produces unique results due to the random generation of the magic machine.
